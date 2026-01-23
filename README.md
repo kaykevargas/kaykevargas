@@ -22,5 +22,5 @@ Graduado em ADS e atualmente atuando como **Técnico de Manutenção na Proxxi (
 ---
 
 ### 📫 Contato & Conquistas:
-- [LinkedIn](COLE_AQUI_O_LINK_DO_SEU_PERFIL)
+- [LinkedIn](https://www.linkedin.com/in/kayke-vargas/)
 - [Certificado de Inglês EF SET (A2)](https://cert.efset.org/pt/pXs3j8)
