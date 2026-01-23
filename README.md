@@ -1,4 +1,4 @@
-# Olá, eu sou o Kayke! 👋
+# Olá, me chamo Kayke! 👋
 
 Graduado em ADS e atualmente atuando como **Técnico de Manutenção na Proxxi (IBM/LATAM)**. Embora meu dia a dia envolva hardware e infraestrutura crítica, meu objetivo de carreira é o **Desenvolvimento Full Stack**.
 
