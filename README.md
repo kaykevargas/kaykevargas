@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Olá,+me+chamo+Kayke!+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Kayke!+👋" alt="Typing SVG" />
 
   <p>
-    🚀 Técnico de TI na <b>Proxxi (IBM Company)</b> alocado na <b>LATAM Airlines</b>. <br>
-    🎓 Graduado em ADS | Focado em <b>Engenharia de Software Full Stack</b>.
+    👨‍💻 <b>Técnico de TI na Proxxi (IBM Company)</b> alocado na <b>LATAM Airlines</b>. <br>
+    🎓 Graduado em ADS | Expandindo conhecimentos para <b>Engenharia de Software Full Stack</b>.
   </p>
 
   <a href="https://www.linkedin.com/in/kayke-vargas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -37,14 +37,11 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaykevargas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" /></td>
-      <td><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykevargas&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></td>
-    </tr>
-  </table>
+  <h3>📊 Minhas Estatísticas</h3>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaykevargas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykevargas&layout=compact&langs_count=7&theme=dracula" />
 
-  <br>
+  <br><br>
 
   <h3>🐍 GitHub Contribution Snake</h3>
   <img src="https://github-contribution-grid-snake.vercel.app/api/github-snake?github_user=kaykevargas&color_snake=%23BD93F9&color_dots=%23bfbdbe%2C%23483b5a%2C%236c508f%2C%239166c4%2C%23b57cfa" alt="Snake Animation" />
