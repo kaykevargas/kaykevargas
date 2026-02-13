@@ -43,7 +43,12 @@
 
   <br><br>
 
-  <h3>🐍 GitHub Contribution Snake</h3>
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-snake?github_user=kaykevargas&color_snake=%23BD93F9&color_dots=%23bfbdbe%2C%23483b5a%2C%236c508f%2C%239166c4%2C%23b57cfa" alt="Snake Animation" />
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaykevargas/kaykevargas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaykevargas/kaykevargas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaykevargas/kaykevargas/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
