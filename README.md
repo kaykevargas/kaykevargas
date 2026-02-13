@@ -1,26 +1,52 @@
-# Olá, me chamo Kayke! 👋
+<div align="center">
 
-Graduado em ADS e atualmente atuando como **Técnico de Manutenção na Proxxi (IBM/LATAM)**. Embora meu dia a dia envolva hardware e infraestrutura crítica, meu objetivo de carreira é o **Desenvolvimento Full Stack**.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Olá,+me+chamo+Kayke!+👋" alt="Typing SVG" />
 
-### 🚀 Transição de Carreira & Foco:
-- 🛠️ **Presente:** Manutenção de hardware e suporte técnico especializado.
-- 💻 **Futuro:** Desenvolvimento de aplicações robustas, escaláveis e em nuvem.
+  <p>
+    🚀 Técnico de TI na <b>Proxxi (IBM Company)</b> alocado na <b>LATAM Airlines</b>. <br>
+    🎓 Graduado em ADS | Focado em <b>Engenharia de Software Full Stack</b>.
+  </p>
 
-### 🛠️ Tecnologias e Ferramentas:
+  <a href="https://www.linkedin.com/in/kayke-vargas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:vargaskayke600@GMAIL.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-**Front-end (Já possuo projetos):**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  <br><br>
 
-**Back-end & Cloud (Foco 2026):**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Cloud](https://img.shields.io/badge/cloud-00599C?style=for-the-badge&logo=icloud&logoColor=white)
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <b>Frontend</b><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      </td>
+      <td align="center" width="33%">
+        <b>Backend & DB</b><br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+      </td>
+      <td align="center" width="33%">
+        <b>Cloud & Tools</b><br>
+        <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=ibm&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white">
+      </td>
+    </tr>
+  </table>
 
----
+  <br>
 
-### 📫 Contato & Conquistas:
-- [LinkedIn](https://www.linkedin.com/in/kayke-vargas/)
-- [Certificado de Inglês EF SET (A2)](https://cert.efset.org/pt/pXs3j8)
+  <table>
+    <tr>
+      <td><img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaykevargas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" /></td>
+      <td><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykevargas&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3>🐍 GitHub Contribution Snake</h3>
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-snake?github_user=kaykevargas&color_snake=%23BD93F9&color_dots=%23bfbdbe%2C%23483b5a%2C%236c508f%2C%239166c4%2C%23b57cfa" alt="Snake Animation" />
+
+</div>
