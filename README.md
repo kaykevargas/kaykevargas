@@ -33,8 +33,8 @@
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaykevargas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykevargas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaykevargas&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykevargas&theme=tokyonight&hide_border=true&langs_count=4" alt="Linguagens Mais Usadas" />
 </p>
 
 <br>
