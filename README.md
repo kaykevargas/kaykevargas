@@ -2,16 +2,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right" alt="Meu GIF Animado">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=false&vCenter=false&width=500&lines=Olá,+me+chamo+Kayke!+👋" alt="Typing SVG" />
-  <br><br>
   <p>
-    👨‍💻 <b>Desenvolvedor Full Stack</b> apaixonado por criar APIs robustas e interfaces dinâmicas. Atualmente, atuo na 
-      operação de infraestrutura de missão crítica da LATAM Airlines (via Proxxi/IBM), o que me garante uma forte
-      visão sistêmica sobre servidores, redes e alta disponibilidade</b>. 
-      
-  <br>
-      🎓 Graduado em Análise e Desenvolvimento de Sistemas (UMSP) | Cursando Bacharelado em <b>Engenharia de Software (UNINTER)</b>.
+    👨‍💻 <b>Desenvolvedor Full Stack</b> apaixonado por criar APIs robustas e interfaces dinâmicas. Atualmente, atuo na operação de infraestrutura de missão crítica da <b>LATAM Airlines (via Proxxi/IBM)</b>, o que me garante uma <b>forte visão sistêmica sobre servidores, redes e alta disponibilidade</b>.
   </p>
-  <br>
+  <p>
+    🎓 Graduado em Análise e Desenvolvimento de Sistemas (UMSP) | Cursando Bacharelado em <b>Engenharia de Software (UNINTER)</b>.
+  </p>
+</div>
+<br>
   <a href="https://www.linkedin.com/in/kayke-vargas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:vargaskayke600@GMAIL.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
