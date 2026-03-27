@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=false&vCenter=false&width=500&lines=Olá,+me+chamo+Kayke!+👋" alt="Typing SVG" />
   <br><br>
   <p>
-    👨‍💻 <b>Desenvolvedor Full Stack</b> apaixonado por criar APIs robustas e interfaces dinâmicas. Atualmente, atuo na operação de infraestrutura de missão crítica da LATAM Airlines (via Proxxi/IBM), o que me garante           uma forte visão sistêmica sobre servidores, redes e alta disponibilidade.</b>. <br>
-    🎓 Graduado em Análise e Desenvolvimento de Sistemas (UMSP) | Cursando Bacharelado em<b>Engenharia de Software (UNINTER).</b>.
+    👨‍💻 <b>Desenvolvedor Full Stack</b> apaixonado por criar APIs robustas e interfaces dinâmicas. Atualmente, atuo na operação de infraestrutura de missão crítica da LATAM Airlines (via Proxxi/IBM), o que me garante           uma forte visão sistêmica sobre servidores, redes e alta disponibilidade</b>. <br>
+    🎓 Graduado em Análise e Desenvolvimento de Sistemas (UMSP) | Cursando Bacharelado em<b>Engenharia de Software (UNINTER)</b>.
   </p>
   <br>
   <a href="https://www.linkedin.com/in/kayke-vargas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
